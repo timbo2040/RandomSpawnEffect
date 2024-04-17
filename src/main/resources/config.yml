@@ -1,0 +1,43 @@
+# List of effects to choose from
+effect_pool:
+  - REGENERATION
+  - SPEED
+  - JUMP
+  - INVISIBILITY
+
+# Default duration for the effect (in ticks)
+duration: 999999
+
+# Default amplifier for the effect
+amplifier: 1
+
+# Valid effect names:
+# - ABSORPTION
+# - BAD_OMEN
+# - BLINDNESS
+# - CONFUSION
+# - DAMAGE_RESISTANCE
+# - DOLPHINS_GRACE
+# - FAST_DIGGING
+# - FIRE_RESISTANCE
+# - GLOWING
+# - HEAL
+# - HEALTH_BOOST
+# - HERO_OF_THE_VILLAGE
+# - HUNGER
+# - INCREASE_DAMAGE
+# - INVISIBILITY
+# - JUMP
+# - LEVITATION
+# - LUCK
+# - NIGHT_VISION
+# - POISON
+# - REGENERATION
+# - SATURATION
+# - SLOW
+# - SLOW_DIGGING
+# - SLOW_FALLING
+# - SPEED
+# - UNLUCK
+# - WATER_BREATHING
+# - WEAKNESS
